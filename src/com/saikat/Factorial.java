@@ -1,3 +1,5 @@
+//1. Write a program to print factorial of a number, also take input.
+
 package com.saikat;
 
 import java.util.Scanner;
