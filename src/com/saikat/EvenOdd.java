@@ -1,3 +1,5 @@
+//2. Write a program to print whether a number is even or odd, also take input.
+    
 package com.saikat;
 
 import java.util.Scanner;
