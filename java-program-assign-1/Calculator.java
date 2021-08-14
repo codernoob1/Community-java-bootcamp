@@ -1,3 +1,6 @@
+
+//5. Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
+
 package com.saikat;
 
 import java.util.Scanner;
